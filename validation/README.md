@@ -6,7 +6,7 @@
 
 ### Generate SAXS profile from AMO86615 experiment
 
-See `pr772_make_1d_profile.ipynb` notebook for some information on how the hits identified in the data of experiment AMO86615 were summed and radially averaged to make the "experimental SAXS profile". The actual scripts and results can be found under `pr772/`.
+See `pr772_make_1d_profile.ipynb` notebook for some information on how the hits identified in the data of experiment AMO86615 were summed and radially averaged to make the "experimental SAXS profile". 
 
 ####  Get list of hits
 

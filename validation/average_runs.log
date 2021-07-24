@@ -1,0 +1,29 @@
+2021-03-24 23:03:21,776 - root - INFO - reading Hit List
+2021-03-24 23:03:21,781 - root - INFO - ... list of runs found: [182 183 184 185 186 188 190 191 192 193 194 196 197]
+2021-03-24 23:03:21,781 - root - INFO - > summing run 182
+2021-03-24 23:03:30,570 - root - INFO -    # of images 15
+2021-03-24 23:03:30,571 - root - INFO - > summing run 183
+2021-03-24 23:03:38,364 - root - INFO -    # of images 3
+2021-03-24 23:03:38,367 - root - INFO - > summing run 184
+2021-03-24 23:03:45,176 - root - INFO -    # of images 1
+2021-03-24 23:03:45,179 - root - INFO - > summing run 185
+2021-03-24 23:03:52,242 - root - INFO -    # of images 7
+2021-03-24 23:03:52,244 - root - INFO - > summing run 186
+2021-03-24 23:10:16,743 - root - INFO -    # of images 2048
+2021-03-24 23:10:16,746 - root - INFO - > summing run 188
+2021-03-24 23:13:53,391 - root - INFO -    # of images 1171
+2021-03-24 23:13:53,393 - root - INFO - > summing run 190
+2021-03-24 23:18:33,700 - root - INFO -    # of images 1498
+2021-03-24 23:18:33,702 - root - INFO - > summing run 191
+2021-03-24 23:24:13,982 - root - INFO -    # of images 1718
+2021-03-24 23:24:13,984 - root - INFO - > summing run 192
+2021-03-24 23:28:07,079 - root - INFO -    # of images 1279
+2021-03-24 23:28:07,082 - root - INFO - > summing run 193
+2021-03-24 23:35:55,474 - root - INFO -    # of images 2525
+2021-03-24 23:35:55,477 - root - INFO - > summing run 194
+2021-03-24 23:41:05,193 - root - INFO -    # of images 1661
+2021-03-24 23:41:05,195 - root - INFO - > summing run 196
+2021-03-24 23:45:22,481 - root - INFO -    # of images 1436
+2021-03-24 23:45:22,484 - root - INFO - > summing run 197
+2021-03-24 23:49:51,963 - root - INFO -    # of images 1410
+2021-03-24 23:49:52,016 - root - INFO - DONE! Wrote the sum of 14772 images to team_LCLS
